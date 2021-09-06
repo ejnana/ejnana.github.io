@@ -11,8 +11,6 @@ body
 .navbar
 {
     background-color: #D7CCC8;
-    max-width: 480px;
-    margin: 0px auto;
 }
 
 .body-wrapper-nav-compensate
@@ -37,7 +35,7 @@ a
     overflow-x: auto;
     overflow-Y: hidden;
     white-space: nowrap;
-    padding-bottom: 8%;
+    padding-bottom: 5%;
 }
 
 .horizontal-scroll-col
@@ -97,7 +95,6 @@ a
 {
     filter: brightness(0.5);
     height: 128px;
-    width: 216px;
     object-fit: cover;
 }
 
